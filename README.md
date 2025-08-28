@@ -60,7 +60,6 @@ AutoAdversary/
 ├── scenarios/                  # Attack scenario definitions
 ├── scripts/                    # Utility and setup scripts
 ├── web/                        # Flask web application
-├── tests/                      # Test suite
 ├── docs/                       # Documentation
 └── .github/                    # GitHub Actions workflows
 ```
