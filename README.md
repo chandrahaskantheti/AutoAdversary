@@ -13,8 +13,8 @@ AutoAdversary is an automated Red Team/Blue Team simulation platform designed to
 -  **Detection Validation** - Verify security controls and detection mechanisms
 -  **Intelligent Reporting** - Auto-generate detailed security assessment reports
 -  **Continuous Integration** - Seamless integration with CI/CD pipelines
-- 🎛 **Web-Based Dashboard** - Intuitive Flask-powered interface for campaign management
-- 💾 **Persistent Storage** - SQLite-based data persistence for historical analysis
+-  **Web-Based Dashboard** - Intuitive Flask-powered interface for campaign management
+-  **Persistent Storage** - SQLite-based data persistence for historical analysis
 
 ## Architecture
 
