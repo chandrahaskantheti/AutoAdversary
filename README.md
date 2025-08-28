@@ -67,7 +67,7 @@ AutoAdversary/
 
 ## Contributing
 
-While AutoAdversary is primarily a solo development project, contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+While AutoAdversary is primarily a solo development project, contributions are welcome!
 
 ### Development Roadmap
 
